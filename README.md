@@ -29,7 +29,7 @@ Follow these 4 straightforward steps to deploy Altero on Heroku:
 That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and start the bot!
 
 <p align="center">
-    <a href="https://heroku.com/deploy"><[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Pionn45/alteroin)>
+    <a href="https://heroku.com/deploy"> |[![Deploy] (https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Pionn45/alteroin)>
     
 
 ---
