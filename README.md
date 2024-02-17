@@ -1,7 +1,6 @@
 <h1 align="center"><b>ALTERO PROJECT</b></h1>
 
-<p align="center"><img src="[https://telegra.ph//file/2178f3294bb1b72d38b77.png]" alt="Altero project"></p>
-
+<p align="center"><img src="https://telegra.ph//file/2178f3294bb1b72d38b77.png" alt="Altero Projects" width=240px></a>
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
 <h3 align="center">
@@ -30,7 +29,8 @@ Follow these 4 straightforward steps to deploy Altero on Heroku:
 That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and start the bot!
 
 <p align="center">
-    <a href="https://heroku.com/deploy">
+    <a href="https://heroku.com/deploy"><[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Pionn45/alteroin)>
+    
 
 ---
 
