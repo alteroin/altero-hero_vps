@@ -85,7 +85,7 @@ Altero can be deployed on any Linux VPS and terminal.
     ```
     > Not press 'Ctrl + B' then 'D' to detatch from tmux and let your bot run in background.
 
-That's it! You've successfully deployed HellBot on a Linux VPS in 6 easy steps.
+That's it! You've successfully deployed Altero on a Linux VPS in 6 easy steps.
 
 ---
 
