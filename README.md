@@ -1,6 +1,6 @@
-<h1 align="center"><b>тнє нєℓℓвσт</b></h1>
+<h1 align="center"><b>ALTERO PROJECT</b></h1>
 
-<p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The HellBot"></p>
+<p align="center"><img src="(https://telegra.ph//file/2178f3294bb1b72d38b77.png)" alt="Altero project"></p>
 
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
@@ -11,26 +11,9 @@
 
 ---
 
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
+## Deploying Altero on Heroku
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
-
-![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-[![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://the-hellbot.gitbook.io/)
-
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://telegram.dog/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://telegram.dog/its_hellbot)
-
-[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-[![Views](https://img.shields.io/youtube/views/leMyoT-qDH4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/leMyoT-qDH4)
-
----
-
-## Deploying HellBot on Heroku
-
-Follow these 4 straightforward steps to deploy HellBot on Heroku:
+Follow these 4 straightforward steps to deploy Altero on Heroku:
 
 1. **Fork & Star this Repo:**
     > Begin by [forking](https://github.com/The-Hellbot/Hellbot/fork) and [starring](https://github.com/The-Hellbot/Hellbot/) this repository on GitHub.
@@ -52,9 +35,9 @@ That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and s
 
 ---
 
-## Deploying HellBot on Linux
+## Deploying Altero on Linux
 
-Hellbot can be deployed on any Linux VPS and terminal.
+Altero can be deployed on any Linux VPS and terminal.
 
 1. **Update Packages:**   
     ```bash
@@ -139,35 +122,8 @@ Should you require assistance, kindly engage with our support group for communit
 
 > Thank you for choosing our bot and for your understanding and adherence.
 
-~ Team HellBot ❤️
-
----
+> ---
 
 # License
-
-<p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="HellBot License">
-</p>
-
-<h4 align="center">
-    Copyright (C) 2024 <a href="https://github.com/The-HellBot">The-HellBot</a>
-</h4>
-
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</br>
-
-<h2 align="center">
-    Made with ❤️ by <a href="https://github.com/HellBoy-OP">Anand</a>
-</h2>
-
----
+[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
+ALTERO PROJECT is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
