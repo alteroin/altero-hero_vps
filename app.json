@@ -1,5 +1,5 @@
 {
-    "name": "The HellBot",
+    "name": "Altero project",
     "description": "🚀 Telegram Bot on steroids! Packed with the latest commands, limitless features, etc. Unleash the ultimate power of customization and automation like never before!",
     "logo": "https://te.legra.ph/file/31c5a08f0941b8fbb3f66.png",
     "keywords": [
@@ -7,7 +7,7 @@
         "userbot",
         "plugin",
         "pyrogram",
-        "hellbot"
+        "alterobot"
     ],
     "repository": "https://github.com/The-HellBot/HellBot/",
     "env": {
